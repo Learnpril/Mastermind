@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mastermind", "Mastermind.vcxproj", "{F710A7AF-F5F2-4554-B998-A8E91433AF99}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mastermind", "Mastermind\Mastermind.vcxproj", "{B1B6F029-42FF-4B94-8C8E-BBD32A154860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F710A7AF-F5F2-4554-B998-A8E91433AF99}.Debug|Win32.ActiveCfg = Debug|Win32
-		{F710A7AF-F5F2-4554-B998-A8E91433AF99}.Debug|Win32.Build.0 = Debug|Win32
-		{F710A7AF-F5F2-4554-B998-A8E91433AF99}.Release|Win32.ActiveCfg = Release|Win32
-		{F710A7AF-F5F2-4554-B998-A8E91433AF99}.Release|Win32.Build.0 = Release|Win32
+		{B1B6F029-42FF-4B94-8C8E-BBD32A154860}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1B6F029-42FF-4B94-8C8E-BBD32A154860}.Debug|Win32.Build.0 = Debug|Win32
+		{B1B6F029-42FF-4B94-8C8E-BBD32A154860}.Release|Win32.ActiveCfg = Release|Win32
+		{B1B6F029-42FF-4B94-8C8E-BBD32A154860}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
