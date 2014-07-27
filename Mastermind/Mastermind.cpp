@@ -7,10 +7,6 @@ using namespace std;
 
 int main() {
 
-	int secretCode [4] =  {1, 2, 3, 4};
-
-	cout << "result = " << secretCode[0] << endl;
-
 	int answer;
 		cout << "\n\n		    _____         _                 _       _ "<< endl;
 		cout << "		   |     |___ ___| |_ ___ ___ _____|_|___ _| |"<< endl;
