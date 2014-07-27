@@ -1,0 +1,8 @@
+*.exe
+*.ilk
+Debug/Mastermind.pdb
+Mastermind.opensdf
+Mastermind.sdf
+Mastermind/Debug/Mastermind.log
+Mastermind/Debug/Mastermind.vcxprojResolveAssemblyReference.cache
+*.tlog
