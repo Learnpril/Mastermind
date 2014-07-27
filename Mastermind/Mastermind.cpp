@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-
+	//hello
 	int secretCode [4] =  {1, 2, 3, 4};
 
 	cout << "result = " << secretCode[0] << endl;
